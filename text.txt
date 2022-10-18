@@ -1,3 +1,5 @@
 https://medium.com/@sub.metu/advanced-data-manipulation-javascript-b309fd008c6d
 
 https://stackoverflow.com/questions/34303279/reduce-in-depth
+
+https://jsmanifest.com/posts/

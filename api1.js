@@ -1,3 +1,4 @@
+//https://jsmanifest.com/designing-api-methods-in-javascript/
 function createAccount({
     password = '',
     nickname = '',
