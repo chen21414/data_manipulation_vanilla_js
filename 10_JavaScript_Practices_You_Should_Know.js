@@ -60,3 +60,5 @@ console.log(typeof true) // Result: "boolean"
 console.log(+true) // Result: 1
 console.log(+false) // Result: 0
 
+
+//keep reading the rest, very important
