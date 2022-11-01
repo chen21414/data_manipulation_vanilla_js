@@ -44,7 +44,7 @@ const applyFilterToImage = (image) => {
         }
       }
         //calling API
-        const newImg = api.filterImage(filters, options)
+        const newImg = api.filterImage(image, filters, options)
         if (callback) {
           return callback(null, newImg)
         }
